@@ -1,0 +1,60 @@
+body {
+	margin: 0px;
+}
+header {
+	text-align: center;
+	background-color: #3257d3;
+	font-size: 1em;
+	padding: 5px 10px;
+	color: white;
+	font-family: "굴림체";
+	font-weight: bold;
+}
+nav {
+	background-color: #8a8be7;
+	padding: 0px 0px;
+}
+section {
+	text-align: center;
+	background-color: #e4e4e4;
+	padding: 5px 10px;
+	min-height: 700px;
+}
+section table {
+	text-align: center;
+}
+section th, td {
+	padding: 5px 5px;
+}
+section a {
+	text-decoration: none;
+}
+footer {
+	background-color: #3567b5;
+	padding: 5px 10px;
+}
+ul {
+	list-style-type: none;
+	display: inline-block;
+}
+li {
+	float: left;
+	padding: 0px 10px;
+	color: white;
+}
+li a {
+	text-decoration: none;
+	color: white;
+}
+li a:hover {
+	color: yellow;
+}
+table {
+	margin: auto;
+}
+.btn {
+	text-align: center;
+}
+.sale {
+	width: 400px;
+}
